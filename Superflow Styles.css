@@ -1,0 +1,64 @@
+html{
+height: 100%;
+width: 100%;
+
+    background-color: black;
+}
+body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+        background-color: black;
+        overflow: scroll;
+    }
+    img{
+padding-right: 0;
+        object-fit:contain;
+    }
+
+.welp{
+    color:#fff;
+    font-family: 'Secular One', sans-serif;
+   
+   height:600px;
+  max-width:600px;
+   grid-template-columns: 1fr 1fr;
+   grid-template-rows: 1fr 1fr;
+    
+
+
+display: grid;
+
+align-items:center;
+justify-items: center;
+
+
+}
+
+p{
+
+
+    margin:0;
+}
+
+
+.welp2{
+
+color:#fff;
+font-family:  'Secular One', sans-serif;
+display:flex;
+justify-content: center;
+align-content: center;
+align-items: center;
+justify-items: center;
+}
+.hello{
+
+grid-column-start: 2;
+grid-row-start: ;
+display: grid;
+    font-size: 25px;
+}
+.hello3{
+    font-size: 5.5555555555555555555555555555555555555555555555555555555555555555555555555555vh;
+}
