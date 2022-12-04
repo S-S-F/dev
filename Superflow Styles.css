@@ -15,7 +15,7 @@ body{
 padding-right: 0;
         object-fit:contain;
     }
-
+       
 .welp{
     color:#fff;
     font-family: 'Secular One', sans-serif;
@@ -55,7 +55,6 @@ justify-items: center;
 .hello{
 
 grid-column-start: 2;
-grid-row-start: ;
 display: grid;
     font-size: 25px;
 }
